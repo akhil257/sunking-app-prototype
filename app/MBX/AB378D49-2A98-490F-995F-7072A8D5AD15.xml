@@ -1,0 +1,102 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="AB378D49-2A98-490F-995F-7072A8D5AD15" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="11">
+    <control controlID="792C2E9A-75DE-4F0D-BBAC-4B3106F49355" controlTypeID="Image" x="28" y="72" w="303" h="97" zOrder="0">
+      <URL>4191F897B7EA4E5247A006CF08F5EA1C.png</URL>
+    </control>
+    <control controlID="1AB2EB0C-3899-47A5-90E0-6C9B9A54A58E" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="1"/>
+    <control controlID="BD3536F5-FBC4-4B9C-AA2B-FDF28CDBDB2A" controlTypeID="Label" x="90" y="484" w="179" h="20" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="835709D5-67D6-4E0A-8F4A-B2CDC34D95E8" linkType="ltPageLink" isApplyIncludePage="False" title="SignUp">
+          <area shape="0" alt="" ID="{B74B1559-499F-472C-9658-3C2FD6534963}" coords="(0,0,179,20)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Register+as+Sunking+Agent%3F</text>
+      <textColor>4284900966</textColor>
+      <textSize>15</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F6EEB236-4B27-4C8F-A2C0-FB6B3CCABA39" controlTypeID="Label" x="58" y="615" w="244" h="16" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%C2%A9+2017+Greenlight+Planet.+All+Rights+Reserved.</text>
+      <textColor>4288256409</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6506D307-C114-4D89-A8DF-6004EA721731" controlTypeID="Label" x="36" y="581" w="54" h="18" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>About+US</text>
+      <textColor>4286151033</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="14D05452-C192-4875-9E6D-ACB783746E09" controlTypeID="Label" x="154" y="581" w="73" h="18" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Terms+of+Use</text>
+      <textColor>4286151033</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0DEEA4E0-DF63-4748-BAA0-C8ED0AE98E84" controlTypeID="Label" x="291" y="581" w="26" h="18" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Help</text>
+      <textColor>4286151033</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F68221C6-560C-450A-A9E4-7361E68D8619" controlTypeID="TextInput" x="43" y="252" w="274" h="39" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Enter+your+Agent+ID</placeHolder>
+      <radius>8</radius>
+    </control>
+    <control controlID="7F8102FA-3B76-4208-9B49-D6DDF6AB649A" controlTypeID="TextInput" x="45" y="303" w="274" h="39" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Enter+your+Password</placeHolder>
+      <radius>8</radius>
+    </control>
+    <control controlID="3148561F-BB3B-4E7F-BB5C-154BDB2E219F" controlTypeID="Button" x="98" y="379" w="164" h="46" zOrder="9">
+      <color>4294111986</color>
+      <opacity>0.699999988079071</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AEAEF3DB-CFF1-457B-9A3E-0E484DF57992" linkType="ltPageLink" isApplyIncludePage="False" title="Front">
+          <area shape="0" alt="" ID="{C8BE8F28-2663-4DA2-9DF3-0D0DF298EA56}" coords="(0,0,164,46)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>LOGIN</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9558BC13-BD87-43B2-9FEB-2F0262FBC988" controlTypeID="Label" x="51" y="343" w="108" h="19" zOrder="10">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Forgot+Password%3F</text>
+      <textColor>4278216396</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
